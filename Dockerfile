@@ -1,4 +1,4 @@
-FROM python:3.11.0a7-buster
+FROM python:3.12.0a3-buster
 
 WORKDIR ./
 COPY ./requirements.txt requirements.txt
